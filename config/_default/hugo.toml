@@ -12,6 +12,9 @@ copyright = "&copy; 2025 Jinho Yim"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[permalinks]
+  posts = "/posts/:year/:slug/"
+
 [privacy]
   [privacy.vimeo]
     enableDNT = true
@@ -29,6 +32,7 @@ copyright = "&copy; 2025 Jinho Yim"
 
 [taxonomies]
   tag = "tags"
+  category = "categories"
 
 [caches]
   [caches.images]
