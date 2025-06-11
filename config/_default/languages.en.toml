@@ -1,0 +1,16 @@
+languageCode = "en-US"
+languageName = "English"
+languageDirection = "ltr"
+weight = 2
+
+title = "Jinho Yim"
+
+[params]
+  mainSections = ["posts"]
+  # description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+
+[params.author]
+  name = "Jinho Yim"
+  image = "img/author.jpg"
+  headline = "Software Engineer"
+  # bio = ""

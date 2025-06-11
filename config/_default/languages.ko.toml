@@ -1,0 +1,16 @@
+languageCode = "ko-KR"
+languageName = "한국어"
+languageDirection = "ltr"
+weight = 1
+
+title = "Jinho Yim"
+
+[params]
+  mainSections = ["posts"]
+  description = "개발자 임진호의 기록 공간입니다."
+
+[params.author]
+  name = "Jinho Yim"
+  image = "img/author.jpg"
+  headline = "Software Engineer"
+  # bio = ""
