@@ -29,3 +29,7 @@ copyright = "&copy; 2025 Jinho Yim"
 
 [taxonomies]
   tag = "tags"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
