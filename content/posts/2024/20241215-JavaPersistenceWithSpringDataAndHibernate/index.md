@@ -2,7 +2,7 @@
 title: "Java Persistence with Spring Data and Hibernate"
 date: 2024-12-15T00:16:00+09:00
 slug: "java-persistence-with-spring-data-and-hibernate"
-categories: ["book"]
+categories: ["Books"]
 tags: ["JPA", "Hibernate", "SpringData"]
 description: Hibernate와 Spring Data로 자바 영속성을 다루는 책에 대한 리뷰이다. 영속성을 다루는 실무 패턴보다 하이버네이트와 Spring Data 도구에 대해 깊이 있게 다룬다. 번역서 '자바 퍼시스턴스 프로그래밍 완벽 가이드'가 출간되었다.
 ---
