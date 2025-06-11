@@ -4,6 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Jinho Yim"
+hasCJKLanguage = true
 
 [params]
   mainSections = ["posts"]
