@@ -7,12 +7,6 @@ tags: ["EventSourcing", "EventModeling", "VerticalSliceArchitecture", "TestFirst
 description: "Understanding EventSourcing 도서의 번역 작업에 대한 경험 이야기이다." 
 ---
 
-## 링크
-
-[[원서에 대한 글]]({{< relref "posts/2025/20250603-UnderstandingEventSourcing/index.md" >}})
-
-[[구매 페이지]](https://leanpub.com/understanding-eventsourcing-kr)
-
 ## 번역을 하게 된 계기
 
 처음 원서를 읽을 때는 다른 이벤트 소싱을 다룬 여러 글과 마찬가지로 느리게 읽혔다. 책의 내용이 어려워서라고 생각했지만 30% 정도 읽은 후에 '이 책은 대단하다'라는 생각이 들었다. 빨리 읽히지 않았던 것은 익숙하지 않아서 사고의 전환이 필요한 부분이라는 생각이 들었고 이 책은 그 부분을 잘 짚어주고 있었다.
@@ -53,3 +47,9 @@ description: "Understanding EventSourcing 도서의 번역 작업에 대한 경�
 번역을 딱 한 권만 할지, 아니면 좋은 책 몇 권 더 할지 고민이다.
 살면서 책을 한 권 써보고 싶다고 생각했었지만 그럴 수 있는 주제를 찾을 지는 의문이다.
 그 전에 마음에 드는 책 3권 정도 번역해 볼 수 있으면 좋겠다.(좋아하는 책은 대부분 이미 번역된 경우가 많았다.)
+
+## 링크
+
+[[원서에 대한 글]]({{< relref "posts/2025/20250603-UnderstandingEventSourcing/index.md" >}})
+
+[[구매 페이지]](https://leanpub.com/understanding-eventsourcing-kr)
