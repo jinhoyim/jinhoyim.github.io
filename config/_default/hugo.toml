@@ -37,3 +37,6 @@ copyright = "&copy; 2025 Jinho Yim"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[sitemap]
+  changeFreq = 'weekly'
